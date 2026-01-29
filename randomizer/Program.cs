@@ -31,7 +31,6 @@ class Program
         }
 
         PrintSlowWithDot("randomizer start to work");
-        PrintSlowWithDot("randomizer start to work");
         PrintSlowWithDot("Analyzing input");
         PrintSlowWithDot("Generating output");
 
